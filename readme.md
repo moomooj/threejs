@@ -2,6 +2,9 @@
 
 
 ``` bash
+# git clone
+git clone https://github.com/moomooj/threejs.git
+
 # dependencies install
 npm install
 
