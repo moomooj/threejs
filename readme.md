@@ -11,3 +11,10 @@ npm run dev
 # dist 폴더에 빌드하기
 npm run build
 ```
+
+## src/script 파일 내 three.js 코드 작성하시면 됩니다.
+
+``` javascript I'm A tab
+import * as THREE from "three";
+
+```
