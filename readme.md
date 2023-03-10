@@ -1,16 +1,13 @@
-# Three.js Journey
+# Vite 베이스 Three.js 기본 셋업 입니다.
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
 ``` bash
-# Install dependencies (only the first time)
+# dependencies install
 npm install
 
-# Run the local server at localhost:8080
+# 로컬 서버에 run 하기
 npm run dev
 
-# Build for production in the dist/ directory
+# dist 폴더에 빌드하기
 npm run build
 ```
